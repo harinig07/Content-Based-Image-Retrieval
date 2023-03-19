@@ -13,5 +13,5 @@ Image retrieval is a process of searching and retrieving digitalimages based on 
   - Compute evaluation metrics on retrieved images
 
 ## Dataset
-The dataset used is Wang and Malayakew dataset
+<img width="487" alt="Dataset" src="https://user-images.githubusercontent.com/128280752/226164626-ae8073c6-6917-4fc1-9800-83a3d04e8942.PNG">
 
