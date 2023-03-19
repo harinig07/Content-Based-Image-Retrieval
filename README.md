@@ -18,12 +18,12 @@ Image retrieval is a process of searching and retrieving digitalimages based on 
 The dataset used are Wang and Malayakew datatset. In Malyakew datatset only 10 classes , consisiting of 50 images in each class is consisdered.
 
 ## Results
-The query image given from the wang dataset is
-<p align="left">
+The query image given from the wang and malayakew dataset is
+<p align="center">
 <img width="285" alt="Capture" src="https://user-images.githubusercontent.com/128280752/226165448-1a3a38a3-2e04-4d15-8f7b-5d71aca6f070.PNG">
 </p>
-<p align="right">
-<img width="285" alt="Capture" src="https://user-images.githubusercontent.com/128280752/226165448-1a3a38a3-2e04-4d15-8f7b-5d71aca6f070.PNG">
+<p align="center">
+<img width="194" alt="Capture" src="https://user-images.githubusercontent.com/128280752/226165884-5e2acbd8-fc88-44b1-9897-957cdbd119d9.PNG">
 </p>
 
 10 retrieved images with histograms from both datasets is shown.
