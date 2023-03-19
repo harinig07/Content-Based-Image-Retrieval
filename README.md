@@ -30,4 +30,6 @@ The query image given from the wang and malayakew dataset is
 <p align="center">
 <img width="490" alt="Capture" src="https://user-images.githubusercontent.com/128280752/226165043-85ca115d-9ab9-471c-a962-2c18704685a2.PNG">
 </p>
-
+<p align="center">
+<img width="483" alt="Capture" src="https://user-images.githubusercontent.com/128280752/226166246-a25cddad-66a9-4cad-aa02-873c1c230994.PNG">
+</p>
