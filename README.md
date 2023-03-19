@@ -11,7 +11,13 @@ Image retrieval is a process of searching and retrieving digitalimages based on 
   - Extract the features of query image
   - Compute the distance between feature representation of query image and representations of image datatbase
   - Compute evaluation metrics on retrieved images
+  
+<img width="750" alt="methodology" src="https://user-images.githubusercontent.com/128280752/226164702-6b7ee8f2-a774-47a0-aa5f-8f97dad71471.png">
 
 ## Dataset
-<img width="487" alt="Dataset" src="https://user-images.githubusercontent.com/128280752/226164626-ae8073c6-6917-4fc1-9800-83a3d04e8942.PNG">
+The dataset used are Wang and Malayakew datatset. In Malyakew datatset only 10 classes , consisiting of 50 images in each class is consisdered.
+
+## Results
+10 retrieved images with histograms from both datasets is shown.
+
 
