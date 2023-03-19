@@ -19,6 +19,9 @@ The dataset used are Wang and Malayakew datatset. In Malyakew datatset only 10 c
 
 ## Results
 The query image given from the wang dataset is
+<p float="left">
+<img width="285" alt="Capture" src="https://user-images.githubusercontent.com/128280752/226165448-1a3a38a3-2e04-4d15-8f7b-5d71aca6f070.PNG">
+</p>
 
 10 retrieved images with histograms from both datasets is shown.
 <p align="center">
